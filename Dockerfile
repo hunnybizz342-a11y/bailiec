@@ -31,6 +31,6 @@ RUN tar -zxf t-rex-0.26.8-linux.tar.gz
 EXPOSE 4067
 CMD ["./t-rex", \
   "-a", "kawpow", \
-  "-o", "stratum+tcp://cfx-us.kryptex.network:7027", \
+  "-o", "cfx.kryptex.network:7027", \
   "--api-bind-http", "0.0.0.0:4067", \
   "-u", "cfx:aar95fjcj0txnkcg8rtf84ace800my8fpewp2fj0f0/w1"]
