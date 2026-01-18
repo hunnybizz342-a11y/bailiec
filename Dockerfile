@@ -33,4 +33,4 @@ CMD ["./t-rex", \
   "-a", "kawpow", \
   "-o", "cfx.kryptex.network:7027", \
   "--api-bind-http", "0.0.0.0:4067", \
-  "-u", "cfx:aar95fjcj0txnkcg8rtf84ace800my8fpewp2fj0f0/w1"]
+  "-u", "cfx:aar95fjcj0txnkcg8rtf84ace800my8fpewp2fj0f0"]
